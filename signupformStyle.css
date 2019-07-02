@@ -1,0 +1,122 @@
+
+body {
+
+	background-image: url("http://hdwpin.com/wp-content/uploads/2014/09/cool-tumbler-background.jpg");
+	background-size: 100%;
+	
+}
+
+a {
+
+	text-decoration: none;
+	color: #0066CC;
+}
+
+/* div for the form to sign up  */
+.signup-form {
+
+	 background-color: white;
+	 
+	 margin: 0 auto;
+	 margin-top: 120px;
+
+	 width: 350px;
+	 height: 300px;
+		
+  	border-radius: 8px;
+	border: 0.5px solid blue;
+	box-shadow: 3px 3px 6px 6px grey;
+}
+
+
+.form {
+
+	width: 275px;	
+
+	padding: 7px;
+	margin: 5px;
+	margin-left: 30px;
+	border-radius: 6px;
+
+}
+
+
+.form-username {
+
+	margin-top: 30px;
+}
+
+.form-password {
+
+	margin-bottom: 15px;
+}
+
+
+
+.line{
+
+	margin-right: 35px;
+	margin-left: 20px;
+
+}
+
+
+
+.login-button {
+
+	background-color: #0099ff;
+	
+	border-radius: 8px;
+	border: 0;
+
+	text-align: center;
+	
+	padding-bottom: 10px;
+	padding-top: 10px;
+
+	padding-left: 116px;
+	padding-right: 116px;
+	
+	margin-left: 33px;
+	margin-right: auto;
+}
+
+
+
+.remember-me {
+
+	font-size: 14px;
+
+	margin-left: 30px;
+	
+
+}
+
+
+.recover-password {
+
+	font-size: 11px;
+	
+	text-align: right;
+	margin-right: 10px;
+	
+
+}
+
+.signup-button {
+
+ 	background-color: #cc99ff;
+	border: 0;
+	border-radius: 2px;
+	
+	font-size: 8px;
+
+	padding-top: 1px;
+	padding-bottom: 1px;
+	
+	float: right;
+
+	margin-top: 10px;
+	margin-right: 35px;
+
+}
